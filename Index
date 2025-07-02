@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+  <meta name="description" content="NEWLY ANNOWENCED RESULT OF OUR 10TH BOARD TOPPERS by JHARKHAND ACADEMIC COUNCIL, RANCHI --made by sumit kumar for enjoyment--." />
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <title>11th result | JAC BOARD</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="header">
+    <div class="top">
+    <img src="jhgovt.png" alt="govt"><p>GOVERNMENT OF JHARKHAND | JHARKHAND ACADEMIC COUNCIL</p>
+    </div>
+    <div class="top2">
+       <p>Skip to Main Content</p>
+ <i class="material-icons">volume_up</i><p>Screen Reader Access</p>
+      
+    </div>
+    <div class="top3">
+       <p>A+</p><p>A-</p><p>A</p>
+      <p><i class="material-icons">translate</i> English</p>
+    </div>
+    <div class="top4"> 
+    <i class="material-icons">facebook</i>
+    <i class="fab fa-twitter"></i>
+    <i class="fab fa-instagram"></i>
+    <i class="fab fa-youtube"></i>
+    </div>
+</div>
+    <div class="body1">
+        <p>JHARKHAND ACADEMIC COUNCIL, RANCHI</p><h6>Gyandeep Campus, Bargawan, Namkum, Ranchi - 834010</h6>
+        <p>Class X Examination - 2025</p>
+    </div>
+    <div class="body2">
+        <i class="material-icons">menu</i>
+    </div>
+<div class="mainbox">
+    <div class="box2">
+        <div class="box3">
+            <p>ROLL CODE</p>
+            <input type="text">
+        </div>
+        <div class="box3">
+            <p>ROLL NUMBER</p>
+            <input type="text"/>
+        </div>
+        <div class="captcha">
+            <p>3K7SUK</p>
+        </div>
+       <div class="volume"> <i class="material-icons">volume_up</i>
+       </div>
+         <button class="refresh"><p><i class="material-icons">refresh</i>Refresh</p>
+           </button>
+         <div class="captcha2">
+               <input type="text" placeholder="Enter CAPTCHA" />
+         </div>  
+         <div>
+             <button class="btn">Reset</button>
+             <a href="result.html">
+             <button class="btn">Submit</button></a>
+         </div>
+</div>
+</div>
+
+    <div class="footer0"><p>Note : <span style="color:white;">Jharkhand Academic Council</span>, Ranchi is not responsible for any inadvertent error that may have crept in the results being published on NET. The results published on net are for immediate information to the examinees.These cannot be treated as original marksheets. Original marksheets have been issued by the Council separately.</p></div>
+    <div class="footer">
+        <p>Copyright © 2025. All Rights Reserved -
+<span style="color:#ffc288">Jharkhand Academic Council.</span></p> <br>   <p><span style="color:#ffc288">Last Updated On : 01-07-2025 | 14:00</span></p>
+    </div>
+
+</body>
+</html>
